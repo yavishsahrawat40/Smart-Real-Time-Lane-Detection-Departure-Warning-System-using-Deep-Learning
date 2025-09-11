@@ -1,0 +1,2 @@
+# Smart-Real-Time-Lane-Detection-Departure-Warning-System-using-Deep-Learning
+The proposed project aims to design and develop a Smart Real Time Lane Detection &amp; Departure Warning System enhanced with object detection for lane aware safety. Lane detection plays a critical role in Advanced Driver Assistance Systems (ADAS) and autonomous vehicles, enabling vehicles to maintain lane discipline and avoid collisions.
